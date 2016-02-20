@@ -109,10 +109,6 @@ def main_function():
 	
 main_function()
 
-# Without description data, and n_estimators = 100: Typical score ~ 0.5, which is just as good as random guesses, my RMSE score is approximately 0.76, which is just above the benchmark code.
-
-# With description data, and n_estimators = 200: Typical score ~ 0.5, which is just as good as random guesses, my RMSE score is approximately 0.76, which is just above the benchmark code. I think something is not correct here, maybe I do not do what I think it is supposed to do.
-
 
 
 
